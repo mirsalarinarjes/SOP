@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mirsalarinarjes/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirsalarinarjes/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<I DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+<meta chaset="utf-8">
+<title>صفحه‌ی فارسی راست چین میباشد</title>
+</head>
+<body>
+<div dir="rlt>
+به نام خدا
+<br>
+<br>
+با سلام
+<br>
+من در دوره دبیرستان رشته ریاضی فیزیک‌تحصیل کردم..
+<br>
+اولین بار در رشته کارشناسی ریاضی قبول شدم ولی انصراف دادم و دوباره کنکور شرکت کردم وسال ۱۳۸۳ مهندسی کامپیوتر قبول شدم .
+<br>
+<br>
+بعد از اتمام دوره کارشناسی ۲ سال به صورت آزاد در غیر انتفاعی تدریس کردم 
+<br>
+و  سال ۹۰در آزمون استخدامی آموزش و پرورش پذیرفته شدم و الان ۹ سال سابقه خدمت در این وزارت خانه را دارم 
+<br>
+به دلایلی امکان ادامه تحصیل برایم مقدور نشد.آموزش هایی که به عنوان ضمن خدمت تخصصی به ما ارائه می شود کافی نیست و معمولا در حد چند آموزش چند برنامه کاربردی است 
+<br>
+به همین دلیل لازم دیدم برای بالابردن سطح علمی خودم به عنوان یک هنر آموز در رشته خودم ادامه تحصیل دهم.
+<br>
+امیدوارم در دوره ارشد با لطف خدا و کمک اساتید بزرگوار و باسواد این دانشگاه  و تلاش خودم به هدفم برسم.
+<br>
+با آرزوی موفقیت برای همه💐
+</div>
+</body>
+</html>
